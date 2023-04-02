@@ -32,6 +32,35 @@ Next, Charka UI, JS, Solidity,ethers.js , openzepplin-contracts, thirdweb-sdks
 ![3](https://user-images.githubusercontent.com/83569612/229357993-f964e427-1b78-4992-92df-a8d3961838da.png)
 
 
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Madhan-404/smart-renewal
+```
+
+Go to the project directory
+
+```bash
+  cd smart-renewal
+```
+
+Install dependencies
+
+```bash
+  yarn install
+```
+
+Start the server
+
+```bash
+  yarn dev
+```
+
+
+
+
 ## Authors
 
 - [@Madhan-404](https://www.github.com/Madhan-404)
