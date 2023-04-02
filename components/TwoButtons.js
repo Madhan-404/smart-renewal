@@ -2,6 +2,7 @@ import { Box, Button, HStack, SimpleGrid,Link,Flex,chakra,Stack} from "@chakra-u
 import { useRouter } from "next/router";
 // import MainComponent from "./MainComponent";
 import MainComponent from "../components/MainComponent";
+import {} from "@thirdweb-dev/react"
 
 const TwoButtons = () => {
   const router = useRouter();
